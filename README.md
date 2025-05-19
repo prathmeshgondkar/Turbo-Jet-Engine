@@ -25,7 +25,8 @@ The goal of this personal project was to demonstrate advanced CAD modeling, show
 
 ## 📷 Screenshots
 
-Include screenshots here or embed them using GitHub’s image syntax once uploaded:`
 ![Isometric View](images/Isometric_View.png)
+
 ![Front View](images/Front_View.png)
+
 ![Side View](images/Side_View.png)
