@@ -26,8 +26,8 @@ The goal of this personal project was to demonstrate advanced CAD modeling, show
 ## 📷 Screenshots
 
 ![Isometric View](https://github.com/prathmeshgondkar/Turbo-Jet-Engine/blob/a3d8fc15915546569bef7153a2959f051b78571d/Isometric%20View.png)
-
-
 ![Front View](https://github.com/prathmeshgondkar/Turbo-Jet-Engine/blob/a3d8fc15915546569bef7153a2959f051b78571d/Front%20View.png)
-
 ![Side View](https://github.com/prathmeshgondkar/Turbo-Jet-Engine/blob/a3d8fc15915546569bef7153a2959f051b78571d/Side%20View.png)
+
+## 📬 Contact
+Please contact me on [LinkedIn](www.linkedin.com/in/prathmeshgondkar) if you have any questions or need collaboration.
